@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Anise Simple Discounts\n"
+"Language: pl_PL\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Permanent discount"
+msgstr "Stała zniżka"
+
+msgid "Customer discounts"
+msgstr "Zniżki klienta"
+
+msgid "Percentage discount"
+msgstr "Zniżka procentowa"
+
+msgid "Discount field must be a natural number."
+msgstr "Pole zniżki musi być liczbą naturalną."
+
+msgid "Discount must be between 1 and 99."
+msgstr "Rabat musi mieścić się w przedziale od 1 do 99."

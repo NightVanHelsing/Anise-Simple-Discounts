@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Anise Simple Discounts\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Permanent discount"
+msgstr ""
+
+msgid "Customer discounts"
+msgstr ""
+
+msgid "Percentage discount"
+msgstr ""
+
+msgid "Discount field must be a natural number."
+msgstr ""
+
+msgid "Discount must be between 1 and 99."
+msgstr ""

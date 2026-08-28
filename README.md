@@ -8,4 +8,4 @@
 1. Activate the plugin.
 1. Edit a user profile using WordPress menu and set the discount percentage.
 
-##### Current version is: 1.0.0
+##### Current version is: 1.1.0
